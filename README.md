@@ -226,4 +226,4 @@ The model's accuracy can potentially be improved by:
 
 ## 👨‍💻 Author
 
-**Rohit Kumar Mandolliya**
+**Rohit Kumar**
