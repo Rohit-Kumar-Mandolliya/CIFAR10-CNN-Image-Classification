@@ -200,7 +200,6 @@ CIFAR10-CNN-Image-Classification/
 │
 ├── CIFAR10_Image_Classification.ipynb
 ├── README.md
-├── requirements.txt
 └── cifar10_cnn_model.keras
 ```
 
